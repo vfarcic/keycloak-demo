@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "teller@1.5.6",
+    "civo@1.0.75",
+    "kubernetes-helm@3.14.2",
+    "yq-go@4.42.1",
+    "kubectl@1.29.2"
+  ],
+  "shell": {
+    "init_hook": [],
+    "scripts": {}
+  }
+}
